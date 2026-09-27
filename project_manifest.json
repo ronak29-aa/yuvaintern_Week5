@@ -1,0 +1,19 @@
+{
+  "project": "Week 5 Comprehensive Data Science Project",
+  "dataset": "Iris",
+  "records": 150,
+  "random_state": 42,
+  "train_test_split": "80/20 stratified",
+  "models": [
+    "Logistic Regression",
+    "Decision Tree"
+  ],
+  "visualizations": 12,
+  "scripts": [
+    "train_evaluate.py",
+    "run_pipeline.py",
+    "visualize.py",
+    "eda_quality.py",
+    "statistical_analysis.py"
+  ]
+}

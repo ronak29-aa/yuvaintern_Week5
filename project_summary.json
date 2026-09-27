@@ -1,0 +1,18 @@
+{
+  "dataset_records": 149,
+  "missing_before_cleaning": 6,
+  "duplicates_added": 5,
+  "missing_after_cleaning": 0,
+  "duplicates_after_cleaning": 0,
+  "anova_F": 869.0644878130678,
+  "anova_p": 8.216419194909291e-82,
+  "levene_p": 0.001278242762613785,
+  "eta_squared": 0.922510612655123,
+  "welch_F": 881.8150593201226,
+  "welch_p": 0.0,
+  "logistic_accuracy": 0.9666666666666667,
+  "tree_accuracy": 0.9333333333333333,
+  "logistic_cv": 0.9662068965517243,
+  "tree_cv": 0.9462068965517242,
+  "top_feature": "petal_width"
+}
